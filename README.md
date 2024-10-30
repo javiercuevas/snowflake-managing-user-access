@@ -1,0 +1,1 @@
+# snowflake-managing-user-access
